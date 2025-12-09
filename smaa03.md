@@ -8,5 +8,4 @@
 - ⚡ Fun fact: Coding + Music = Perfect Combo 🎧
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=smaa03&show_icons=true&theme=radical)
-
+https://github.com/smaa03
